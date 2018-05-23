@@ -1,0 +1,16 @@
+.primary-color {
+  color: #2f62f2; }
+
+p.lead {
+  color: #767676;
+  font-size: 0.8rem; }
+
+/* HEADER */
+header {
+  margin-bottom: 2rem; }
+  header .header-nav {
+    background: #215aa9; }
+  header .navbar-dark .navbar-nav .nav-link {
+    color: #fff; }
+  header .main-image {
+    padding: 2rem 0; }
